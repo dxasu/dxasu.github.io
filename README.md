@@ -1,6 +1,6 @@
 ## Welcome to Dxasu blog
 
-[redis on github](https://dxasu.github.io/main/redis.md) 
+[redis on github](https://dxasu.github.io/redis.md) 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
